@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Красивый раздел/error.html.md",
+                "file": "demo-sv-site/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Красивый раздел/error.html.md",
+                "file": "demo-sv-site/РТ-3. Маневрирование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Красивый раздел/error.html.md",
+                "file": "demo-sv-site/РТ-3. Маневрирование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Красивый раздел/error.html.md"
+                "file": "demo-sv-site/РТ-3. Маневрирование.md"
               }
             }
           },
@@ -196,17 +196,54 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "18d29a5f6a40046c",
+  "floating": {
+    "id": "51bf8c431b1f2865",
+    "type": "floating",
+    "children": [
+      {
+        "id": "b4ea272b8d5e0001",
+        "type": "window",
+        "children": [
+          {
+            "id": "64965f5372960506",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "679abb8f96375bef",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "demo-sv-site/РТ-3. Маневрирование.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 405,
+        "y": 527,
+        "width": 900,
+        "height": 500,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "679abb8f96375bef",
   "lastOpenFiles": [
-    "Красивый раздел/index.html.md",
-    "Красивый раздел/error.html.md",
-    "Красивый раздел/РТ-3. Маневрирование.md",
+    "demo-sv-site/РТ-2. Парус.md",
+    "demo-sv-site/Мета – как это все может работать.md",
+    "demo-sv-site/Mindmap для метастранички.canvas",
+    "demo-sv-site/index.md",
+    "demo-sv-site/error.md",
+    "demo-sv-site/Чек-листы/Сводный чек-лист.md",
+    "demo-sv-site/РТ-3. Маневрирование.md",
     "HTML Export/Красивый раздел/index.html.html",
-    "Красивый раздел/РТ-2. Парус.md",
-    "Красивый раздел/Мета – как это все может работать.md",
-    "Красивый раздел/Mindmap для метастранички.canvas",
-    "Красивый раздел/Чек-листы/Сводный чек-лист.md",
-    "Красивый раздел/Чек-листы/Приёмка лодки.md",
+    "demo-sv-site/Чек-листы/Приёмка лодки.md",
     "HTML Export/Красивый раздел/РТ-3. Маневрирование.html",
     "HTML Export/Красивый раздел/Чек-листы/Сводный чек-лист.html",
     "HTML Export/Красивый раздел/Чек-листы/Приёмка лодки.html",
@@ -216,7 +253,7 @@
     "HTML Export/Красивый раздел/Мета – как это все может работать.html",
     "HTML Export/Красивый раздел/Главная красивого раздела.html",
     "HTML Export/Красивый раздел/Mindmap для метастранички.html",
-    "Красивый раздел/РТ-1. Устройство лодки.md",
+    "demo-sv-site/РТ-1. Устройство лодки.md",
     "Drawing 2024-08-22 10.56.40.excalidraw.md",
     "HTML Export/lib/media/874d8b8e340f75575caa.svg",
     "HTML Export/lib/media/3d6c1bdc4d87cde4de67.svg",
