@@ -18,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d54c4309e6edac61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New SV Folder/First SV Folder note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5ff2e2299ecb294",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New SV Folder/Без названия.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New SV Folder/Без названия.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New SV Folder/Без названия.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New SV Folder/Без названия.md"
+                "file": "README.md"
               }
             }
           },
@@ -170,9 +145,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "e9b5dff8cbe7b30f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -192,11 +175,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c5ff2e2299ecb294",
+  "active": "18d29a5f6a40046c",
   "lastOpenFiles": [
-    "New SV Folder/Без названия.md",
-    "Tags",
     "New SV Folder/First SV Folder note.md",
+    "New SV Folder/SV Note with table.md",
+    "Tags",
     "README.md",
     "New SV Folder"
   ]
