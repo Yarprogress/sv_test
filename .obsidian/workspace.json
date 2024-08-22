@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Folder/Folder note.md",
+                "file": "New SV Folder/First SV Folder note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5ff2e2299ecb294",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New SV Folder/Без названия.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,8 +89,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "c28b281ea8bc542a",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -98,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Folder/Folder note.md",
+                "file": "New SV Folder/Без названия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New Folder/Folder note.md",
+                "file": "New SV Folder/Без названия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,8 +159,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Folder/Folder note.md"
+                "file": "New SV Folder/Без названия.md"
               }
+            }
+          },
+          {
+            "id": "6edf43d6ec1b9c12",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ],
@@ -156,13 +185,19 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "74a3c62da184b4af",
+  "active": "c5ff2e2299ecb294",
   "lastOpenFiles": [
+    "New SV Folder/Без названия.md",
+    "Tags",
+    "New SV Folder/First SV Folder note.md",
     "README.md",
-    "New Folder/Folder note.md",
-    "New Folder"
+    "New SV Folder"
   ]
 }
