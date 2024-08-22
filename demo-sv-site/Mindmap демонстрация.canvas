@@ -1,11 +1,14 @@
 {
 	"nodes":[
-		{"id":"a54df5e71c335e97","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Выбираем место и время"},
-		{"id":"b8a92ddff09af537","x":200,"y":-125,"width":250,"height":250,"type":"text","text":"Думаем про:\n- [ ] Свой опыт\n- [ ] Команду\n- [ ] Тип лодки\n- [ ] Погоду\n- [ ] Количество стран\n- [ ] Визы"},
-		{"id":"93bc31514ec7ca31","x":560,"y":-30,"width":250,"height":60,"type":"text","text":"Выбираем чартерную"}
+		{"id":"3f1cdee779922f4c","x":696,"y":80,"width":250,"height":60,"type":"text","text":""},
+		{"id":"a54df5e71c335e97","type":"text","text":"Выбираем место и время","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"b8a92ddff09af537","type":"text","text":"Думаем про:\n- [ ] Свой опыт\n- [ ] Команду\n- [ ] Тип лодки\n- [ ] Погоду\n- [ ] Количество стран\n- [ ] Визы","x":200,"y":-125,"width":250,"height":250},
+		{"id":"93bc31514ec7ca31","type":"text","text":"Выбираем чартерную [[Список чартерных компаний Турция]]","x":600,"y":-125,"width":250,"height":155},
+		{"id":"29c0d9c4a8dafcc7","type":"text","text":"[[Что взять с собой]]","x":960,"y":-125,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"dae898bedf7f9426","fromNode":"a54df5e71c335e97","fromSide":"right","toNode":"b8a92ddff09af537","toSide":"left"},
-		{"id":"1bf0747070a3ce57","fromNode":"b8a92ddff09af537","fromSide":"right","toNode":"93bc31514ec7ca31","toSide":"left"}
+		{"id":"1bf0747070a3ce57","fromNode":"b8a92ddff09af537","fromSide":"right","toNode":"93bc31514ec7ca31","toSide":"left"},
+		{"id":"bde417c03146c1d2","fromNode":"93bc31514ec7ca31","fromSide":"right","toNode":"29c0d9c4a8dafcc7","toSide":"left"}
 	]
 }

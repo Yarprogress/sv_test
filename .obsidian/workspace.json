@@ -15,9 +15,9 @@
               "state": {
                 "file": "demo-sv-site/Mindmap демонстрация.canvas",
                 "viewState": {
-                  "x": 414.78000000000026,
-                  "y": 5.58,
-                  "zoom": 0
+                  "x": 821.4879033771103,
+                  "y": 109.79016416510322,
+                  "zoom": -0.4403588851704239
                 }
               }
             }
@@ -195,17 +195,19 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "73845bcb8d9e6b09",
+  "active": "18d29a5f6a40046c",
   "lastOpenFiles": [
-    "demo-sv-site/Без названия",
-    "index.md",
+    "demo-sv-site/Чек-листы/Что взять с собой.md",
     "demo-sv-site/Mindmap демонстрация.canvas",
+    "demo-sv-site/Mindmap для метастранички.canvas",
+    "demo-sv-site/Инфо странички/Список чартерных компаний Турция.md",
+    "demo-sv-site/Инфо странички",
+    "index.md",
     "error.md",
     "demo-sv-site/РТ-3. Маневрирование.md",
     "demo-sv-site/РТ-2. Парус.md",
     "demo-sv-site/РТ-1. Устройство лодки.md",
     "demo-sv-site/Мета – как это все может работать.md",
-    "demo-sv-site/Mindmap для метастранички.canvas",
     "demo-sv-site/Чек-листы/Сводный чек-лист.md",
     "demo-sv-site/Чек-листы/Приёмка лодки.md",
     "misc/New SV Folder/SV Note with table.md",
@@ -224,7 +226,6 @@
     "HTML Export/Красивый раздел/РТ-3. Маневрирование.html",
     "HTML Export/Красивый раздел/Чек-листы/Сводный чек-лист.html",
     "HTML Export/Красивый раздел/Чек-листы/Приёмка лодки.html",
-    "HTML Export/Красивый раздел/Чек-листы",
     "Drawing 2024-08-22 10.56.40.excalidraw.md",
     "HTML Export/lib/media/874d8b8e340f75575caa.svg",
     "HTML Export/lib/media/3d6c1bdc4d87cde4de67.svg",
