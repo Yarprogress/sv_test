@@ -11,8 +11,12 @@
             "id": "18d29a5f6a40046c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -97,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "index.md"
+              }
             }
           },
           {
@@ -219,25 +227,32 @@
   },
   "active": "18d29a5f6a40046c",
   "lastOpenFiles": [
+    "index.md",
+    "error.md",
+    "misc/New SV Folder/SV Note with table.md",
+    "misc/New SV Folder/First SV Folder note.md",
+    "misc/New SV Folder/First SV Folder note.html",
+    "misc/README.md",
+    "misc/New SV Folder",
+    "misc/Drawing 2024-08-22 10.56.40.excalidraw.md",
+    "misc/Drawing 2024-08-22 10.53.21.excalidraw.md",
+    "misc",
+    "demo-sv-site/Чек-листы/Сводный чек-лист.md",
+    "demo-sv-site/Чек-листы/Приёмка лодки.md",
+    "demo-sv-site/Чек-листы",
+    "demo-sv-site/РТ-3. Маневрирование.md",
     "demo-sv-site/РТ-2. Парус.md",
+    "demo-sv-site/РТ-1. Устройство лодки.md",
     "demo-sv-site/Мета – как это все может работать.md",
     "demo-sv-site/Mindmap для метастранички.canvas",
+    "demo-sv-site",
     "demo-sv-site/index.md",
     "demo-sv-site/error.md",
-    "demo-sv-site/Чек-листы/Сводный чек-лист.md",
-    "demo-sv-site/РТ-3. Маневрирование.md",
     "HTML Export/Красивый раздел/index.html.html",
-    "demo-sv-site/Чек-листы/Приёмка лодки.md",
     "HTML Export/Красивый раздел/РТ-3. Маневрирование.html",
     "HTML Export/Красивый раздел/Чек-листы/Сводный чек-лист.html",
     "HTML Export/Красивый раздел/Чек-листы/Приёмка лодки.html",
     "HTML Export/Красивый раздел/Чек-листы",
-    "HTML Export/Красивый раздел/РТ-2. Парус.html",
-    "HTML Export/Красивый раздел/РТ-1. Устройство лодки.html",
-    "HTML Export/Красивый раздел/Мета – как это все может работать.html",
-    "HTML Export/Красивый раздел/Главная красивого раздела.html",
-    "HTML Export/Красивый раздел/Mindmap для метастранички.html",
-    "demo-sv-site/РТ-1. Устройство лодки.md",
     "Drawing 2024-08-22 10.56.40.excalidraw.md",
     "HTML Export/lib/media/874d8b8e340f75575caa.svg",
     "HTML Export/lib/media/3d6c1bdc4d87cde4de67.svg",
