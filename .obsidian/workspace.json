@@ -11,11 +11,14 @@
             "id": "18d29a5f6a40046c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Папка для красивого раздела/Мета – как это все может работать.md",
-                "mode": "source",
-                "source": false
+                "file": "майндмапа.canvas",
+                "viewState": {
+                  "x": 85,
+                  "y": -135,
+                  "zoom": 0
+                }
               }
             }
           },
@@ -105,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Папка для красивого раздела/Мета – как это все может работать.md",
+                "file": "майндмапа.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Папка для красивого раздела/Мета – как это все может работать.md",
+                "file": "майндмапа.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Папка для красивого раздела/Мета – как это все может работать.md"
+                "file": "майндмапа.canvas"
               }
             }
           },
@@ -198,22 +201,22 @@
   },
   "active": "18d29a5f6a40046c",
   "lastOpenFiles": [
-    "Папка для красивого раздела/РТ-1. Устройство лодки.md",
+    "майндмапа.png",
+    "Drawing 2024-08-22 10.56.40.excalidraw.md",
+    "README.md",
     "Папка для красивого раздела/Мета – как это все может работать.md",
+    "Vault.md",
+    "Без названия.md",
+    "Папка для красивого раздела/РТ-1. Устройство лодки.md",
     "Папка для красивого раздела/Главная красивого раздела.md",
     "Папка для красивого раздела/РТ-3. Маневрирование.md",
     "Папка для красивого раздела/РТ-2. Парус.md",
-    "Vault.md",
     "Папка для красивого раздела",
-    "Без названия.md",
     "New SV Folder/SV Note with table.md",
     "New SV Folder/First SV Folder note.md",
     "PDF/First SV Folder note.html",
     "PDF",
-    "майндмапа.png",
     "майндмапа.canvas",
-    "README.md",
-    "Drawing 2024-08-22 10.56.40.excalidraw.md",
     "SV Note with table.pdf",
     "Excalidraw/Drawing 2024-08-22 10.53.21.excalidraw.md",
     "Excalidraw",

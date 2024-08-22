@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"10874cc12cc5854c","x":-220,"y":-300,"width":250,"height":60,"type":"text","text":"раз мысль"},
-		{"id":"ad66b3cc10b829c3","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"два мысль"},
-		{"id":"09af956273585dca","x":140,"y":-180,"width":250,"height":60,"color":"1","type":"text","text":"три мысль"}
+		{"id":"10874cc12cc5854c","type":"text","text":"раз мысль","x":-220,"y":-300,"width":250,"height":60},
+		{"id":"ad66b3cc10b829c3","type":"text","text":"Общий источник правды (md файлы в Git\n- не зависят от вендора\n- не просят денег\n- видна история правок (их можно откатывать)\n- легко автоматизировать","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"09af956273585dca","type":"text","text":"три мысль","x":140,"y":-180,"width":250,"height":60,"color":"1"}
 	],
 	"edges":[
 		{"id":"680c4bd2b447e6e1","fromNode":"ad66b3cc10b829c3","fromSide":"top","toNode":"10874cc12cc5854c","toSide":"bottom"},
