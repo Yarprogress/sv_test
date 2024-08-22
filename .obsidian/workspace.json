@@ -23,14 +23,9 @@
             "id": "b6631fcc793b9c9a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "image",
               "state": {
-                "file": "майндмапа.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "майндмапа.png"
               }
             }
           }
@@ -109,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "майндмапа.canvas",
+                "file": "майндмапа.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "майндмапа.canvas",
+                "file": "майндмапа.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "майндмапа.canvas"
+                "file": "майндмапа.png"
               }
             }
           },
@@ -190,11 +185,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b6631fcc793b9c9a",
+  "active": "73845bcb8d9e6b09",
   "lastOpenFiles": [
-    "SV Note with table.pdf",
     "майндмапа.canvas",
+    "майндмапа.png",
     "README.md",
+    "Drawing 2024-08-22 10.56.40.excalidraw.md",
+    "SV Note with table.pdf",
     "Excalidraw/Drawing 2024-08-22 10.53.21.excalidraw.md",
     "New SV Folder/SV Note with table.md",
     "Excalidraw",
