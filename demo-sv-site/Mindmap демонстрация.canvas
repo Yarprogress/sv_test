@@ -1,14 +1,15 @@
 {
 	"nodes":[
-		{"id":"3f1cdee779922f4c","x":696,"y":80,"width":250,"height":60,"type":"text","text":""},
-		{"id":"a54df5e71c335e97","type":"text","text":"Выбираем место и время","x":-125,"y":-30,"width":250,"height":60},
-		{"id":"b8a92ddff09af537","type":"text","text":"Думаем про:\n- [ ] Свой опыт\n- [ ] Команду\n- [ ] Тип лодки\n- [ ] Погоду\n- [ ] Количество стран\n- [ ] Визы","x":200,"y":-125,"width":250,"height":250},
-		{"id":"93bc31514ec7ca31","type":"text","text":"Выбираем чартерную [[Список чартерных компаний Турция]]","x":600,"y":-125,"width":250,"height":155},
-		{"id":"29c0d9c4a8dafcc7","type":"text","text":"[[Что взять с собой]]","x":960,"y":-125,"width":250,"height":60}
+		{"id":"93bc31514ec7ca31","type":"text","text":"Выбираем чартерную [[Список чартерных компаний Турция]]","x":320,"y":-45,"width":250,"height":155},
+		{"id":"29c0d9c4a8dafcc7","type":"text","text":"[[Что взять с собой]]","x":-40,"y":-45,"width":250,"height":60},
+		{"id":"3f1cdee779922f4c","x":45,"y":200,"width":250,"height":200,"color":"1","type":"text","text":"Нулевой день\n- [ ] [[Приёмка лодки]]\n- [ ] Брифинг команды\n- [ ] Закупка продуктов\n- [ ] "},
+		{"id":"b8a92ddff09af537","type":"text","text":"Выбираем место и время\nДумаем про:\n- [ ] Свой опыт\n- [ ] Команду\n- [ ] Тип лодки\n- [ ] Погоду\n- [ ] Количество стран\n- [ ] Визы","x":-20,"y":-520,"width":250,"height":290},
+		{"id":"6c8851aed4cddf85","x":445,"y":300,"width":250,"height":190,"type":"text","text":"Планирование перехода\n- [ ] Проверка лодки\n- [ ] Погода\n- [ ] Планирование маршрута\n- [ ] Отход\n- [ ] Во время движения"}
 	],
 	"edges":[
-		{"id":"dae898bedf7f9426","fromNode":"a54df5e71c335e97","fromSide":"right","toNode":"b8a92ddff09af537","toSide":"left"},
-		{"id":"1bf0747070a3ce57","fromNode":"b8a92ddff09af537","fromSide":"right","toNode":"93bc31514ec7ca31","toSide":"left"},
-		{"id":"bde417c03146c1d2","fromNode":"93bc31514ec7ca31","fromSide":"right","toNode":"29c0d9c4a8dafcc7","toSide":"left"}
+		{"id":"02af17896799ba57","fromNode":"b8a92ddff09af537","fromSide":"bottom","toNode":"93bc31514ec7ca31","toSide":"top"},
+		{"id":"6a82f913f2a79bfa","fromNode":"93bc31514ec7ca31","fromSide":"left","toNode":"29c0d9c4a8dafcc7","toSide":"right"},
+		{"id":"9e8001cd8d867689","fromNode":"29c0d9c4a8dafcc7","fromSide":"bottom","toNode":"3f1cdee779922f4c","toSide":"top"},
+		{"id":"2433d39e97b25107","fromNode":"3f1cdee779922f4c","fromSide":"right","toNode":"6c8851aed4cddf85","toSide":"left"}
 	]
 }

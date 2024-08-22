@@ -15,8 +15,8 @@
               "state": {
                 "file": "demo-sv-site/Mindmap демонстрация.canvas",
                 "viewState": {
-                  "x": 821.4879033771103,
-                  "y": 109.79016416510322,
+                  "x": 389.8989821763606,
+                  "y": 69.40757504690414,
                   "zoom": -0.4403588851704239
                 }
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "demo-sv-site/Mindmap демонстрация.canvas",
+                "file": "demo-sv-site/Mindmap для метастранички.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "demo-sv-site/Mindmap демонстрация.canvas",
+                "file": "demo-sv-site/Mindmap для метастранички.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "demo-sv-site/Mindmap демонстрация.canvas"
+                "file": "demo-sv-site/Mindmap для метастранички.canvas"
               }
             }
           },
@@ -195,10 +195,52 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "18d29a5f6a40046c",
+  "floating": {
+    "id": "b85fe4c8b0d0e8c2",
+    "type": "floating",
+    "children": [
+      {
+        "id": "d817f6a171807259",
+        "type": "window",
+        "children": [
+          {
+            "id": "79adc07e3fb08ea6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "56cdb3fd02201bea",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "demo-sv-site/Mindmap для метастранички.canvas",
+                    "viewState": {
+                      "x": 0,
+                      "y": 0,
+                      "zoom": 0
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 405,
+        "y": 527,
+        "width": 900,
+        "height": 500,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "56cdb3fd02201bea",
   "lastOpenFiles": [
-    "demo-sv-site/Чек-листы/Что взять с собой.md",
     "demo-sv-site/Mindmap демонстрация.canvas",
+    "demo-sv-site/Чек-листы/Что взять с собой.md",
+    "demo-sv-site/Чек-листы/Сводный чек-лист.md",
+    "demo-sv-site/Чек-листы/Приёмка лодки.md",
     "demo-sv-site/Mindmap для метастранички.canvas",
     "demo-sv-site/Инфо странички/Список чартерных компаний Турция.md",
     "demo-sv-site/Инфо странички",
@@ -208,8 +250,6 @@
     "demo-sv-site/РТ-2. Парус.md",
     "demo-sv-site/РТ-1. Устройство лодки.md",
     "demo-sv-site/Мета – как это все может работать.md",
-    "demo-sv-site/Чек-листы/Сводный чек-лист.md",
-    "demo-sv-site/Чек-листы/Приёмка лодки.md",
     "misc/New SV Folder/SV Note with table.md",
     "misc/New SV Folder/First SV Folder note.md",
     "misc/New SV Folder/First SV Folder note.html",
