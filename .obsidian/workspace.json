@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "New SV Folder/SV Note with table.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "New SV Folder/SV Note with table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "New SV Folder/SV Note with table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "New SV Folder/SV Note with table.md"
               }
             }
           },
@@ -177,10 +177,10 @@
   },
   "active": "18d29a5f6a40046c",
   "lastOpenFiles": [
+    "README.md",
     "New SV Folder/First SV Folder note.md",
     "New SV Folder/SV Note with table.md",
     "Tags",
-    "README.md",
     "New SV Folder"
   ]
 }
