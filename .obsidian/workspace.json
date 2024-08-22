@@ -11,9 +11,11 @@
             "id": "18d29a5f6a40046c",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Папка для красивого раздела"
+                "file": "Папка для красивого раздела/РТ-1. Устройство лодки.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -76,15 +78,14 @@
             }
           },
           {
-            "id": "c28b281ea8bc542a",
+            "id": "9cc01392888fd481",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -104,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Папка для красивого раздела/РТ-1. Устройство лодки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Папка для красивого раздела/РТ-1. Устройство лодки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Папка для красивого раздела/РТ-1. Устройство лодки.md"
+              }
             }
           },
           {
@@ -159,14 +164,21 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "dd32bac6766c7155",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,16 +192,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
   "active": "18d29a5f6a40046c",
   "lastOpenFiles": [
     "Папка для красивого раздела/Папка для красивого раздела.md",
+    "Папка для красивого раздела/Главная красивого раздела.md",
     "Папка для красивого раздела/РТ-1. Устройство лодки.md",
     "Папка для красивого раздела/РТ-3. Маневрирование.md",
     "Папка для красивого раздела/РТ-2. Парус.md",
-    "Папка для красивого раздела/Главная красивого раздела.md",
     "Vault.md",
     "Папка для красивого раздела",
     "Без названия.md",
