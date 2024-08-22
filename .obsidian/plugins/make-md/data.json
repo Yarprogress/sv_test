@@ -45,7 +45,8 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//New SV Folder"
+    "//New SV Folder",
+    "//Папка для красивого раздела"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

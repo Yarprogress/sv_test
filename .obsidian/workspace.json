@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Без названия.md",
+                "file": "Папка для красивого раздела/РТ-1. Устройство лодки.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Без названия.md",
+                "file": "Папка для красивого раздела/РТ-1. Устройство лодки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Без названия.md",
+                "file": "Папка для красивого раздела/РТ-1. Устройство лодки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Без названия.md"
+                "file": "Папка для красивого раздела/РТ-1. Устройство лодки.md"
               }
             }
           },
@@ -171,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,7 +191,13 @@
   },
   "active": "18d29a5f6a40046c",
   "lastOpenFiles": [
-    "Красивый раздел.md",
+    "Папка для красивого раздела/РТ-3. Маневрирование.md",
+    "Папка для красивого раздела/РТ-2. Парус.md",
+    "Папка для красивого раздела/РТ-1. Устройство лодки.md",
+    "Папка для красивого раздела/Главная красивого раздела.md",
+    "Папка для красивого раздела/Папка для красивого раздела.md",
+    "Vault.md",
+    "Папка для красивого раздела",
     "Без названия.md",
     "New SV Folder/SV Note with table.md",
     "New SV Folder/First SV Folder note.md",
