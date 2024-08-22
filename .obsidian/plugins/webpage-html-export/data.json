@@ -43,7 +43,7 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "/Users/ekhorev/sv_test/HTML Export",
+  "exportPath": "/Users/ekhorev/SV school demo/export/HTML Export",
   "filesToExport": [
     []
   ]
