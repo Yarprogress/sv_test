@@ -25,7 +25,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Без названия.canvas",
+                "file": "майндмапа.canvas",
                 "viewState": {
                   "x": 0,
                   "y": 0,
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Без названия.canvas",
+                "file": "майндмапа.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Без названия.canvas",
+                "file": "майндмапа.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Без названия.canvas"
+                "file": "майндмапа.canvas"
               }
             }
           },
@@ -193,7 +193,7 @@
   "active": "b6631fcc793b9c9a",
   "lastOpenFiles": [
     "SV Note with table.pdf",
-    "Без названия.canvas",
+    "майндмапа.canvas",
     "README.md",
     "Excalidraw/Drawing 2024-08-22 10.53.21.excalidraw.md",
     "New SV Folder/SV Note with table.md",

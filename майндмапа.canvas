@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"10874cc12cc5854c","x":-220,"y":-300,"width":250,"height":60,"type":"text","text":"раз мысль"},
+		{"id":"ad66b3cc10b829c3","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"два мысль"},
+		{"id":"09af956273585dca","x":140,"y":-180,"width":250,"height":60,"color":"1","type":"text","text":"три мысль"}
+	],
+	"edges":[
+		{"id":"680c4bd2b447e6e1","fromNode":"ad66b3cc10b829c3","fromSide":"top","toNode":"10874cc12cc5854c","toSide":"bottom"},
+		{"id":"7eec5205bfc0412b","fromNode":"ad66b3cc10b829c3","fromSide":"top","toNode":"09af956273585dca","toSide":"bottom"}
+	]
+}
