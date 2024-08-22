@@ -192,39 +192,6 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "floating": {
-    "id": "51bf8c431b1f2865",
-    "type": "floating",
-    "children": [
-      {
-        "id": "b4ea272b8d5e0001",
-        "type": "window",
-        "children": [
-          {
-            "id": "64965f5372960506",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "679abb8f96375bef",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 405,
-        "y": 527,
-        "width": 900,
-        "height": 500,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "18d29a5f6a40046c",
   "lastOpenFiles": [
     "index.md",
