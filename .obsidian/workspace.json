@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New SV Folder/SV Note with table.md",
+                "file": "Без названия.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +85,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -106,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Без названия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Без названия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Без названия.md"
+              }
             }
           },
           {
@@ -184,45 +188,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "51bf8c431b1f2865",
-    "type": "floating",
-    "children": [
-      {
-        "id": "5b503ebdab8cc2cb",
-        "type": "window",
-        "children": [
-          {
-            "id": "070ce091b804429b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c383947b767a1ba0",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 42,
-        "width": 1710,
-        "height": 1070,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "c383947b767a1ba0",
+  "active": "18d29a5f6a40046c",
   "lastOpenFiles": [
+    "Красивый раздел.md",
+    "Без названия.md",
+    "New SV Folder/SV Note with table.md",
     "New SV Folder/First SV Folder note.md",
     "PDF/First SV Folder note.html",
     "PDF",
-    "New SV Folder/SV Note with table.md",
     "майндмапа.png",
     "майндмапа.canvas",
     "README.md",
