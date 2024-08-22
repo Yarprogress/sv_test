@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Папка для красивого раздела/РТ-1. Устройство лодки.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -174,7 +174,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -196,7 +196,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "18d29a5f6a40046c",
+  "active": "e9b5dff8cbe7b30f",
   "lastOpenFiles": [
     "Папка для красивого раздела/Папка для красивого раздела.md",
     "Папка для красивого раздела/Главная красивого раздела.md",
