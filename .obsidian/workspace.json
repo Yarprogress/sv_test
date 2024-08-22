@@ -11,11 +11,14 @@
             "id": "18d29a5f6a40046c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Папка для красивого раздела/Главная красивого раздела.md",
-                "mode": "source",
-                "source": false
+                "file": "Папка для красивого раздела/Mindmap для метастранички.canvas",
+                "viewState": {
+                  "x": -91.58165562913916,
+                  "y": 56.17344370860927,
+                  "zoom": -0.5668017161539484
+                }
               }
             }
           },
@@ -105,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Папка для красивого раздела/Главная красивого раздела.md",
+                "file": "Папка для красивого раздела/Mindmap для метастранички.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Папка для красивого раздела/Главная красивого раздела.md",
+                "file": "Папка для красивого раздела/Mindmap для метастранички.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Папка для красивого раздела/Главная красивого раздела.md"
+                "file": "Папка для красивого раздела/Mindmap для метастранички.canvas"
               }
             }
           },
@@ -198,6 +201,13 @@
   },
   "active": "18d29a5f6a40046c",
   "lastOpenFiles": [
+    "Папка для красивого раздела/РТ-3. Маневрирование.md",
+    "HTML Export/Папка для красивого раздела/Mindmap для метастранички.html",
+    "Папка для красивого раздела/РТ-2. Парус.md",
+    "Папка для красивого раздела/Мета – как это все может работать.md",
+    "Папка для красивого раздела/Главная красивого раздела.md",
+    "Папка для красивого раздела/Mindmap для метастранички.canvas",
+    "Папка для красивого раздела/РТ-1. Устройство лодки.md",
     "Drawing 2024-08-22 10.56.40.excalidraw.md",
     "HTML Export/Папка для красивого раздела/РТ-3. Маневрирование.html",
     "HTML Export/Папка для красивого раздела/РТ-2. Парус.html",
@@ -210,17 +220,10 @@
     "HTML Export/lib/fonts/cbe0ae49c52c920fd563.woff2",
     "HTML Export/lib/fonts/cb10ffd7684cd9836a05.woff2",
     "HTML Export/lib/fonts/c8ba52b05a9ef10f4758.woff2",
-    "HTML Export/lib/fonts/b5f0f109bc88052d4000.woff2",
-    "Папка для красивого раздела/РТ-3. Маневрирование.md",
-    "Папка для красивого раздела/РТ-2. Парус.md",
-    "Папка для красивого раздела/РТ-1. Устройство лодки.md",
-    "Папка для красивого раздела/Мета – как это все может работать.md",
-    "майндмапа.canvas",
     "майндмапа.png",
     "README.md",
     "Vault.md",
     "Без названия.md",
-    "Папка для красивого раздела/Главная красивого раздела.md",
     "New SV Folder/SV Note with table.md",
     "New SV Folder/First SV Folder note.md",
     "Excalidraw/Drawing 2024-08-22 10.53.21.excalidraw.md"
