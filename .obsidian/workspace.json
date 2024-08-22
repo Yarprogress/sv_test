@@ -11,9 +11,11 @@
             "id": "18d29a5f6a40046c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Drawing 2024-08-22 10.56.40.excalidraw.md"
+                "file": "Папка для красивого раздела/Главная красивого раздела.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -103,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drawing 2024-08-22 10.56.40.excalidraw.md",
+                "file": "Папка для красивого раздела/Главная красивого раздела.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Drawing 2024-08-22 10.56.40.excalidraw.md",
+                "file": "Папка для красивого раздела/Главная красивого раздела.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drawing 2024-08-22 10.56.40.excalidraw.md"
+                "file": "Папка для красивого раздела/Главная красивого раздела.md"
               }
             }
           },
@@ -196,6 +198,7 @@
   },
   "active": "18d29a5f6a40046c",
   "lastOpenFiles": [
+    "Drawing 2024-08-22 10.56.40.excalidraw.md",
     "HTML Export/Папка для красивого раздела/РТ-3. Маневрирование.html",
     "HTML Export/Папка для красивого раздела/РТ-2. Парус.html",
     "HTML Export/Папка для красивого раздела/РТ-1. Устройство лодки.html",
@@ -208,12 +211,10 @@
     "HTML Export/lib/fonts/cb10ffd7684cd9836a05.woff2",
     "HTML Export/lib/fonts/c8ba52b05a9ef10f4758.woff2",
     "HTML Export/lib/fonts/b5f0f109bc88052d4000.woff2",
-    "HTML Export/lib/fonts/94f2f163d4b698242fef.otf",
     "Папка для красивого раздела/РТ-3. Маневрирование.md",
     "Папка для красивого раздела/РТ-2. Парус.md",
     "Папка для красивого раздела/РТ-1. Устройство лодки.md",
     "Папка для красивого раздела/Мета – как это все может работать.md",
-    "Drawing 2024-08-22 10.56.40.excalidraw.md",
     "майндмапа.canvas",
     "майндмапа.png",
     "README.md",
