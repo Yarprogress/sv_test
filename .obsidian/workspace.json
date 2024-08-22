@@ -106,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New SV Folder/First SV Folder note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New SV Folder/First SV Folder note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "New SV Folder/First SV Folder note.md"
-              }
+              "state": {}
             }
           },
           {
@@ -184,13 +180,49 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b6631fcc793b9c9a",
+  "floating": {
+    "id": "51bf8c431b1f2865",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5b503ebdab8cc2cb",
+        "type": "window",
+        "children": [
+          {
+            "id": "070ce091b804429b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c383947b767a1ba0",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 42,
+        "width": 1710,
+        "height": 1070,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "c383947b767a1ba0",
   "lastOpenFiles": [
-    "New SV Folder/SV Note with table.md",
     "New SV Folder/First SV Folder note.md",
+    "PDF/First SV Folder note.html",
+    "PDF",
+    "New SV Folder/SV Note with table.md",
     "майндмапа.png",
     "майндмапа.canvas",
     "README.md",
