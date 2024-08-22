@@ -178,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,8 +197,9 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "18d29a5f6a40046c",
+  "active": "73845bcb8d9e6b09",
   "lastOpenFiles": [
+    "Красивый раздел/Без названия",
     "Красивый раздел/РТ-3. Маневрирование.md",
     "Красивый раздел/РТ-2. Парус.md",
     "Красивый раздел/РТ-1. Устройство лодки.md",
