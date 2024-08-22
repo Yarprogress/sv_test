@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Красивый раздел/Главная красивого раздела.md",
+                "file": "Красивый раздел/index.html.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Красивый раздел/Главная красивого раздела.md",
+                "file": "Красивый раздел/index.html.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Красивый раздел/Главная красивого раздела.md",
+                "file": "Красивый раздел/index.html.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Красивый раздел/Главная красивого раздела.md"
+                "file": "Красивый раздел/index.html.md"
               }
             }
           },
@@ -198,6 +198,8 @@
   },
   "active": "18d29a5f6a40046c",
   "lastOpenFiles": [
+    "Красивый раздел/Mindmap для метастранички.canvas",
+    "Красивый раздел/index.html.md",
     "Красивый раздел/Чек-листы/Приёмка лодки.md",
     "HTML Export/Красивый раздел/РТ-3. Маневрирование.html",
     "Красивый раздел/РТ-3. Маневрирование.md",
@@ -212,8 +214,6 @@
     "HTML Export/Красивый раздел",
     "Красивый раздел/РТ-2. Парус.md",
     "Красивый раздел/Мета – как это все может работать.md",
-    "Красивый раздел/Главная красивого раздела.md",
-    "Красивый раздел/Mindmap для метастранички.canvas",
     "Красивый раздел/Чек-листы/Сводный чек-лист.md",
     "Красивый раздел/РТ-1. Устройство лодки.md",
     "Drawing 2024-08-22 10.56.40.excalidraw.md",
