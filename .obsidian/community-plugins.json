@@ -10,5 +10,8 @@
   "obsidian-mind-map",
   "omnisearch",
   "make-md",
-  "obsidian-image-toolkit"
+  "obsidian-image-toolkit",
+  "obsidian-enhancing-export",
+  "obsidian-pandoc",
+  "webpage-html-export"
 ]
