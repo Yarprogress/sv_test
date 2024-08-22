@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "demo-sv-site/РТ-3. Маневрирование.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "demo-sv-site/РТ-3. Маневрирование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "demo-sv-site/РТ-3. Маневрирование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "demo-sv-site/РТ-3. Маневрирование.md"
               }
             }
           },
@@ -194,6 +194,8 @@
   },
   "active": "18d29a5f6a40046c",
   "lastOpenFiles": [
+    "demo-sv-site/РТ-2. Парус.md",
+    "demo-sv-site/РТ-1. Устройство лодки.md",
     "index.md",
     "error.md",
     "misc/New SV Folder/SV Note with table.md",
@@ -208,8 +210,6 @@
     "demo-sv-site/Чек-листы/Приёмка лодки.md",
     "demo-sv-site/Чек-листы",
     "demo-sv-site/РТ-3. Маневрирование.md",
-    "demo-sv-site/РТ-2. Парус.md",
-    "demo-sv-site/РТ-1. Устройство лодки.md",
     "demo-sv-site/Мета – как это все может работать.md",
     "demo-sv-site/Mindmap для метастранички.canvas",
     "demo-sv-site",
