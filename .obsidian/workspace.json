@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b6631fcc793b9c9a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "SV Note with table.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,8 +84,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New SV Folder/SV Note with table.md",
+                "file": "SV Note with table.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New SV Folder/SV Note with table.md",
+                "file": "SV Note with table.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New SV Folder/SV Note with table.md"
+                "file": "SV Note with table.pdf"
               }
             }
           },
@@ -175,11 +185,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "18d29a5f6a40046c",
+  "active": "b6631fcc793b9c9a",
   "lastOpenFiles": [
+    "Без названия.canvas",
     "README.md",
-    "New SV Folder/First SV Folder note.md",
+    "SV Note with table.pdf",
+    "Excalidraw/Drawing 2024-08-22 10.53.21.excalidraw.md",
     "New SV Folder/SV Note with table.md",
+    "Excalidraw",
+    "New SV Folder/First SV Folder note.md",
     "Tags",
     "New SV Folder"
   ]
