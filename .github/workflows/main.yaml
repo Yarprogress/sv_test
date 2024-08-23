@@ -11,12 +11,11 @@ jobs:
     environment: yaCloud-s3
     steps:
     - uses: actions/checkout@master
-    - uses: jakejarvis/s3-sync-action@master
-      with:
-        args: --acl public-read --follow-symlinks --delete
+    - name: Upload file to bucket
+      uses: koraykoska/s3-upload-github-action@master
       env:
-        AWS_S3_BUCKET: ${{ secrets.BUCKET_NAME }}
-        AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-        AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-        AWS_S3_ENDPOINT: 'https://storage.yandexcloud.net'   
-        SOURCE_DIR: '.html-build'      # optional:  defaults to entire repository
+          FILE: ./.html-build/
+          S3_ENDPOINT: 'storage.yandexcloud.net'
+          S3_BUCKET: ${{ secrets.BUCKET_NAME }}
+          S3_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          S3_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
