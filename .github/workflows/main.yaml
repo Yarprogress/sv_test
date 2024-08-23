@@ -17,7 +17,7 @@ jobs:
         with:
           aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          aws-s3-endpoiny: storage.yandexcloud.net
+          aws-s3-endpoint: storage.yandexcloud.net
 
       - name: Deploy static site to S3 bucket
         run: aws s3 sync ./.html-build/ s3://sv-demo --delete
