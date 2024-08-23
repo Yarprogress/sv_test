@@ -34,5 +34,14 @@
       ],
       "key": "B"
     }
+  ],
+  "webpage-html-export:export-html-vault": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "H"
+    }
   ]
 }
