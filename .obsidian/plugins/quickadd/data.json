@@ -1,5 +1,34 @@
 {
-  "choices": [],
+  "choices": [
+    {
+      "id": "adecff2f-70ce-4ce3-9704-08065048d183",
+      "name": "Publish to GIT and WEB",
+      "type": "Template",
+      "command": false,
+      "templatePath": "",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    }
+  ],
   "macros": [
     {
       "name": "pull-export-commit-push",
@@ -28,6 +57,12 @@
           "type": "Obsidian",
           "id": "1b089123-675c-46df-be41-2d68f9433845",
           "commandId": "obsidian-git:push2"
+        },
+        {
+          "name": "Publish to GIT and WEB",
+          "type": "Choice",
+          "id": "f155c51e-e571-4edd-bed8-fdc833b94085",
+          "choiceId": "adecff2f-70ce-4ce3-9704-08065048d183"
         }
       ],
       "runOnStartup": false
