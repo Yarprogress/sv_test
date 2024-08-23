@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[sv_test]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>sv_test</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 23 Aug 2024 13:02:01 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 23 Aug 2024 13:01:59 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Список чартерных компаний Турция]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[sv_test]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>sv_test</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 23 Aug 2024 13:10:16 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 23 Aug 2024 13:10:15 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Список чартерных компаний Турция]]></title><description><![CDATA[ 
  <br>
 <br><a rel="noopener" class="external-link" href="https://12knots.ru/ru/yacht-charter/world/mediterranean/turtsiya/" target="_blank">https://12knots.ru/ru/yacht-charter/world/mediterranean/turtsiya/</a>
 <br><a data-tooltip-position="top" aria-label="http://www.galeoyachting.com/" rel="noopener" class="external-link" href="http://www.galeoyachting.com/" target="_blank">Galeo Yachting</a>
@@ -28,11 +28,12 @@
 <br>Туманный горн
 <br>И ещё пункт
 <br>И еще
+<br>и для проверки сборки из конкретной папки
 
 
 
 
-]]></description><link>demo-sv-site/чек-листы/приёмка-лодки.html</link><guid isPermaLink="false">demo-sv-site/Чек-листы/Приёмка лодки.md</guid><pubDate>Fri, 23 Aug 2024 12:55:07 GMT</pubDate></item><item><title><![CDATA[Сводный чек-лист]]></title><description><![CDATA[ 
+]]></description><link>demo-sv-site/чек-листы/приёмка-лодки.html</link><guid isPermaLink="false">demo-sv-site/Чек-листы/Приёмка лодки.md</guid><pubDate>Fri, 23 Aug 2024 13:09:34 GMT</pubDate></item><item><title><![CDATA[Сводный чек-лист]]></title><description><![CDATA[ 
  <br>Summary
 Тут будет чеклист из чек-листов 
 <br>
