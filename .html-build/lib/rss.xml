@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[sv_test]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>sv_test</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 23 Aug 2024 13:15:19 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 23 Aug 2024 13:15:18 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Список чартерных компаний Турция]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[sv_test]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>sv_test</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 23 Aug 2024 13:43:26 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 23 Aug 2024 13:43:24 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Список чартерных компаний Турция]]></title><description><![CDATA[ 
  <br>
 <br><a rel="noopener" class="external-link" href="https://12knots.ru/ru/yacht-charter/world/mediterranean/turtsiya/" target="_blank">https://12knots.ru/ru/yacht-charter/world/mediterranean/turtsiya/</a>
 <br><a data-tooltip-position="top" aria-label="http://www.galeoyachting.com/" rel="noopener" class="external-link" href="http://www.galeoyachting.com/" target="_blank">Galeo Yachting</a>
@@ -49,7 +49,7 @@
 <br>Туманный горн
 <br>И ещё пункт
 <br>И еще
-<br>и для проверки сборки из конкретной папки и ещё надо проверить экшн 3
+<br>и для проверки сборки из конкретной папки и ещё надо проверить экшн 3 +макро
 <br>
 
 
@@ -57,11 +57,11 @@
 
 
 
-]]></description><link>demo-sv-site/чек-листы/приёмка-лодки.html</link><guid isPermaLink="false">demo-sv-site/Чек-листы/Приёмка лодки.md</guid><pubDate>Fri, 23 Aug 2024 13:15:17 GMT</pubDate></item><item><title><![CDATA[Мета – как это все может работать]]></title><description><![CDATA[ 
+]]></description><link>demo-sv-site/чек-листы/приёмка-лодки.html</link><guid isPermaLink="false">demo-sv-site/Чек-листы/Приёмка лодки.md</guid><pubDate>Fri, 23 Aug 2024 13:32:31 GMT</pubDate></item><item><title><![CDATA[Мета – как это все может работать]]></title><description><![CDATA[ 
  <br> Mindmap для метастранички]]></description><link>demo-sv-site/мета-–-как-это-все-может-работать.html</link><guid isPermaLink="false">demo-sv-site/Мета – как это все может работать.md</guid><pubDate>Thu, 22 Aug 2024 10:50:53 GMT</pubDate></item><item><title><![CDATA[РТ-3. Маневрирование]]></title><description><![CDATA[ 
  <br>А тут про маневрирование<br>]]></description><link>demo-sv-site/рт-3.-маневрирование.html</link><guid isPermaLink="false">demo-sv-site/РТ-3. Маневрирование.md</guid><pubDate>Thu, 22 Aug 2024 15:06:11 GMT</pubDate></item><item><title><![CDATA[РТ-2. Парус]]></title><description><![CDATA[ 
  <br>Тут материалы про парус<br>]]></description><link>demo-sv-site/рт-2.-парус.html</link><guid isPermaLink="false">demo-sv-site/РТ-2. Парус.md</guid><pubDate>Thu, 22 Aug 2024 15:06:05 GMT</pubDate></item><item><title><![CDATA[РТ-1. Устройство лодки]]></title><description><![CDATA[ 
- <br>Это страница первого раздела, матералы по устройству лодки<br>]]></description><link>demo-sv-site/рт-1.-устройство-лодки.html</link><guid isPermaLink="false">demo-sv-site/РТ-1. Устройство лодки.md</guid><pubDate>Thu, 22 Aug 2024 16:44:57 GMT</pubDate></item><item><title><![CDATA[error]]></title><description><![CDATA[ 
+ <br>Это страница первого раздела, матералы по устройству лодки<br>]]></description><link>demo-sv-site/рт-1.-устройство-лодки.html</link><guid isPermaLink="false">demo-sv-site/РТ-1. Устройство лодки.md</guid><pubDate>Fri, 23 Aug 2024 13:41:59 GMT</pubDate></item><item><title><![CDATA[error]]></title><description><![CDATA[ 
  <br>Упс. Ошибка.]]></description><link>error.html</link><guid isPermaLink="false">error.md</guid><pubDate>Thu, 22 Aug 2024 13:48:19 GMT</pubDate></item><item><title><![CDATA[Mindmap]]></title><description><![CDATA[ 
  <br>Представим, что это главная страница рабочей тетради. Сюда попадает по ссылке наш студент<br><br> Mindmap для метастранички<br><br><a data-href="РТ-1. Устройство лодки" href="demo-sv-site/рт-1.-устройство-лодки.html" class="internal-link" target="_self" rel="noopener">РТ-1. Устройство лодки</a><br>
 <a data-href="РТ-2. Парус" href="demo-sv-site/рт-2.-парус.html" class="internal-link" target="_self" rel="noopener">РТ-2. Парус</a><br>

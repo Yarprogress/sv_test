@@ -1,32 +1,11 @@
 {
   "choices": [
     {
-      "id": "adecff2f-70ce-4ce3-9704-08065048d183",
-      "name": "Publish to GIT and WEB",
-      "type": "Template",
+      "id": "d30c54ea-7d66-4448-a9ad-79d5062dfcc1",
+      "name": "n",
+      "type": "Macro",
       "command": false,
-      "templatePath": "",
-      "fileNameFormat": {
-        "enabled": false,
-        "format": ""
-      },
-      "folder": {
-        "enabled": false,
-        "folders": [],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
-      },
-      "appendLink": false,
-      "openFileInNewTab": {
-        "enabled": false,
-        "direction": "vertical",
-        "focus": true
-      },
-      "openFile": false,
-      "openFileInMode": "default",
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
+      "macroId": "9f5a9538-6938-4abf-9bc4-0e6b79e35098"
     }
   ],
   "macros": [
