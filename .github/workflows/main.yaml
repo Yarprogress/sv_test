@@ -19,4 +19,4 @@ jobs:
         AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
         AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
         AWS_S3_ENDPOINT: 'https://storage.yandexcloud.net'   
-        SOURCE_DIR: '.html-build'      # optional: defaults to entire repository
+        SOURCE_DIR: '.html-build'      # optional:  defaults to entire repository
